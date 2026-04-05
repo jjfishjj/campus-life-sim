@@ -47,6 +47,20 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        campus: {
+          blue: "hsl(var(--campus-blue))",
+          green: "hsl(var(--campus-green))",
+          yellow: "hsl(var(--campus-yellow))",
+          pink: "hsl(var(--campus-pink))",
+          purple: "hsl(var(--campus-purple))",
+        },
+        stat: {
+          academic: "hsl(var(--stat-academic))",
+          social: "hsl(var(--stat-social))",
+          health: "hsl(var(--stat-health))",
+          money: "hsl(var(--stat-money))",
+          stress: "hsl(var(--stat-stress))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
